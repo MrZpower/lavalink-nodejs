@@ -56,3 +56,5 @@ De maneira simples o seu arquivo zip de alteração de codigo tem de estar assim
 zip > bot > <seu codigo>
 ```
 Já que o seu codigo está numa pasta bot para fazer alteração de por a pasta bot no meio (se não pôr essa pasta o seu codigo irá ficar junto com o Codigo e poderá quebrar tudo)
+
+[![Run on Repl.it](https://repl.it/badge/github/discloud/lavalink-nodejs)](https://repl.it/github/discloud/lavalink-nodejs)
